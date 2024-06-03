@@ -29,4 +29,4 @@ Content-Type: application/json
 ```http
 GET http://localhost:9090/{id}
 ```
-Note: replace the `{id` with the id you get from the response of `shorten`.
+Note: replace the `{id}` with the id you get from the response of `shorten`.
