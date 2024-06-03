@@ -1,0 +1,10 @@
+### generate shorten
+POST http://localhost:9090/
+Content-Type: application/json
+
+{
+  "url": "https://time.geekbang.org/21"
+}
+
+### get original url
+GET http://localhost:9090/KKCvMf
